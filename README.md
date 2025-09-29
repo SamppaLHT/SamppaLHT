@@ -1,10 +1,7 @@
-<h1 align="center"> Samu Lyhty   <h3>📖 About Me</h3>
-        <p>
-            I'm currently studying at Oulu University of Applied Sciences in the Degree Programme in Information Technology, specializing in Software Development. I'm interested in coding and video games, and I also enjoy staying physically active in different ways.
-        </p>>
+<h1 align="center"> Samu Lyhty </h1>
 <img align="right" src="https://komarev.com/ghpvc/?username=SamppaLHT&label=Profile%20views&color=0e75b6&style=flat" alt="SamppaLHT" />
 
-<h3 align="center">:toolbo Languages and Tools</h3>
+<h3 align="center">:toolbox: Languages and Tools</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -34,7 +31,8 @@
         
   <h3>:ledger: About Me</h3>
         <p>
-            I’m currently studying at Oulu University of Applied Sciences in the Degree Programme in Information Technology, specializing in Software Development. I’m interested in coding and video games, and I also enjoy staying physically active in different ways.</p>
+            I’m currently studying at Oulu University of Applied Sciences in the Degree Programme in Information Technology, specializing in Software Development.</p>
+            <p> I’m interested in coding and video games, and I also enjoy staying physically active in different ways.</p>
         </p>
     </div>
 </div>
