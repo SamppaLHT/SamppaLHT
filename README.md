@@ -31,8 +31,7 @@
         
   <h3>:ledger: About Me</h3>
         <p>
-            I’m currently studying at Oulu University of Applied Sciences in the Degree Programme in Information Technology, specializing in Software Development.</p>
-           <p> I’m interested in coding and video games, and I also enjoy staying physically active in different ways.</p>
+            I’m currently studying at Oulu University of Applied Sciences in the Degree Programme in Information Technology, specializing in Software Development. I’m interested in coding and video games, and I also enjoy staying physically active in different ways.</p>
         </p>
     </div>
 </div>
