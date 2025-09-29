@@ -1,5 +1,5 @@
 <h1 align="center"> Samu Lyhty </h1>
-<img align="right" src="https://komarev.com/ghpvc/?username=vem882&label=Profile%20views&color=0e75b6&style=flat" alt="vem882" />
+<img align="right" src="https://komarev.com/ghpvc/?username=SamppaLHT&label=Profile%20views&color=0e75b6&style=flat" alt="SamppaLHT" />
 
 <h3 align="center">🛠️ Languages and Tools</h3>
 
