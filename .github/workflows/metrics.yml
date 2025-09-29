@@ -14,7 +14,6 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    environment: production
 
     # Define minimal required permissions for security
     permissions:
