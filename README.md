@@ -24,17 +24,17 @@
         
   <h3>✨ Fun Facts</h3>
         <ul>
-            <li>I'm a tech enthusiast with a knack for integrating complex systems.</li>
-            <li>I enjoy playing C&C, COD: Black Ops Cold War Prop Hunt, and Garry's Mod.</li>
-            <li>I love dogs! They're the best companions, whether I'm coding, gaming, or just relaxing. </li>
-            <li>Traveling is a big passion of mine — exploring new cultures and places inspires me. Thailand, with its friendly people and vibrant cuisine, holds a special place in my heart.</li>
+            <li>------------------------------------------------------------------------</li>
+            <li>------------------------------------------------------------------------</li>
+            <li>------------------------------------------------------------------------</li>
+            <li>------------------------------------------------------------------------</li>
         </ul>
         
   <h3>🧑‍💻 About Me</h3>
         <p>
-            I work as a B2B Customer Integration Specialist at Finland's most popular online store Verkkokauppa.com  </p>
-           <p> I'm also studying at Oulu University of Applied Sciences in the Degree Programme in Information Technology, specializing in Software Development.</p>
-           <p> I have a passion for coding, and in my free time, I enjoy working on IoT projects and automating smart home devices.</p>
+            ------------------------------------------------------------------------</p>
+           <p>------------------------------------------------------------------------</p>
+           <p>------------------------------------------------------------------------</p>
         </p>
     </div>
 </div>
