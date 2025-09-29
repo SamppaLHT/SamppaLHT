@@ -1,4 +1,7 @@
-<h1 align="center"> Samu Lyhty </h1>
+<h1 align="center"> Samu Lyhty   <h3>📖 About Me</h3>
+        <p>
+            I'm currently studying at Oulu University of Applied Sciences in the Degree Programme in Information Technology, specializing in Software Development. I'm interested in coding and video games, and I also enjoy staying physically active in different ways.
+        </p>>
 <img align="right" src="https://komarev.com/ghpvc/?username=SamppaLHT&label=Profile%20views&color=0e75b6&style=flat" alt="SamppaLHT" />
 
 <h3 align="center">:toolbo Languages and Tools</h3>
