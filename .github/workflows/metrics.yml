@@ -32,7 +32,7 @@ jobs:
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest  # Updated to the correct version
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_SECRET }}
           user: SamppaLHT
           template: classic
           base: header, activity, community, repositories, metadata
