@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,cpp,cmake,docker,git,github,js,linux,mysql,py,dotnet,unreal,pycharm,cloudflare,arduino,apple,bash,cpp,css,express,kubernetes,md,nginx,nodejs,npm,php,postman,react,raspberrypi,redis,vue,wordpress,yarn,vscode,ubuntu,windows,debian,terraform,swift,qt,powershell,mongodb,lua,java,html,githubactions,cmake" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=git,github,js,linux,mysql,py,pycharm,arduino,bash,css,express,md,nodejs,npm,php,postman,react,vscode,ubuntu,windows,qt,powershell,java,html,cmake" alt="Skills and tools"/>
   </a>
 </p>
 
