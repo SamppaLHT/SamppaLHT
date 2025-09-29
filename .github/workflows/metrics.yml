@@ -1,4 +1,5 @@
 name: GitHub Metrics
+# Workflow to generate GitHub profile metrics
 
 on:
   # Schedule updates (daily at midnight UTC)
