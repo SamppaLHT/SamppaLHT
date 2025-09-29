@@ -1,7 +1,7 @@
 <h1 align="center"> Samu Lyhty </h1>
 <img align="right" src="https://komarev.com/ghpvc/?username=SamppaLHT&label=Profile%20views&color=0e75b6&style=flat" alt="SamppaLHT" />
 
-<h3 align="center">🛠️ Languages and Tools</h3>
+<h3 align="center">:toolbo Languages and Tools</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -22,14 +22,14 @@
             </a>
         </p>
         
-  <h3>✨ Fun Facts</h3>
+  <h3>:bulb: Fun Facts</h3>
         <ul>
             <li> I have a passion for learning, especially in technology, but I’m always eager to dive into new subjects beyond tech as well.</li>
             <li> I enjoy working out and staying active, it’s a big part of my routine and something I genuinely look forward to.</li>
             <li> I hope to one day travel to the places I’ve learned about and experience them in person.</li>
         </ul>
         
-  <h3> :ledger: About Me</h3>
+  <h3>:ledger: About Me</h3>
         <p>
             I’m currently studying at Oulu University of Applied Sciences in the Degree Programme in Information Technology, specializing in Software Development.</p>
            <p> I’m interested in coding and video games, and I also enjoy staying physically active in different ways.</p>
