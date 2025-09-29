@@ -24,10 +24,9 @@
         
   <h3>✨ Fun Facts</h3>
         <ul>
-            <li>------------------------------------------------------------------------</li>
-            <li>------------------------------------------------------------------------</li>
-            <li>------------------------------------------------------------------------</li>
-            <li>------------------------------------------------------------------------</li>
+            <li> I have a passion for learning, especially in technology, but I’m always eager to dive into new subjects beyond tech as well.</li>
+            <li> I enjoy working out and staying active, it’s a big part of my routine and something I genuinely look forward to.</li>
+            <li> I hope to one day travel to the places I’ve learned about and experience them in person.</li>
         </ul>
         
   <h3>🧑‍💻 About Me</h3>
